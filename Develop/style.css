@@ -8,8 +8,11 @@ textarea {
   border: none;
   resize: none;
   color: #000000;
-  border-left: 1px solid black;
   padding: 10px;
+}
+
+header {
+  text-align: center;
 }
 
 .description {
@@ -18,38 +21,37 @@ textarea {
 
 .time-block {
   border-radius: 15px;
-}
-
-.row {
-  border-top: 1px solid white;
+  text-align: center;
+  margin: 3px 0;
 }
 
 .hour {
   background-color: #ffffff;
   color: #000000;
-  border-top: 1px dashed #000000;
+  border: 1px dashed #000000;
+  border-radius: 15px;
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #ffc3c3a8;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #95c96f;
   color: white;
+  margin: 10px -20px;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #c1d8e9aa;
   color: white;
 }
 
 .saveBtn {
-  border-left: 1px solid black;
-  border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  border: 1px solid rgb(131, 131, 131);
+  border-radius: 15px;
+  background-color: #99afd2;
   color: white;
 }
 
