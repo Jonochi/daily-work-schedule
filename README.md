@@ -10,15 +10,15 @@ N/A
 
 ## Usage
 
-GitHub repository: https://github.com/Jonochi/schedule
+GitHub repository: https://github.com/Jonochi/daily-work-schedule
 
-GitHub Deployed Project Page: https://jonochi.github.io/schedule/
+GitHub Deployed Project Page: https://jonochi.github.io/daily-work-schedule/
 
 For users to keep track of hourly tasks
 
 Project screenshot:
     
-![Module 5 project screenshot](assets/screenshot.png)
+![Module 5 project screenshot](Assets/screenshot.png)
 
 ## Credits
 
