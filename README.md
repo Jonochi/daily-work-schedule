@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is Module 5 challenge of U of U's professional bootcamp. 
+This project is Module 5 challenge of U of U's professional bootcamp. The project is focused on third part APIs to create a daily work schedule. A user is able to add events and save them so that they are visible on refresh, and saved in local storage.
 
 ## Installation
 
@@ -22,7 +22,7 @@ Project screenshot:
 
 ## Credits
 
-N/A
+U of U's professional bootcamp starter code. https://github.com/coding-boot-camp/crispy-octo-meme
 
 ## License
 
