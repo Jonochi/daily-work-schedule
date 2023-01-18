@@ -18,7 +18,7 @@ For users to keep track of hourly tasks
 
 Project screenshot:
     
-![Module 5 project screenshot](Assets/screenshot.png)
+![Module 5 project screenshot](assets/screenshot.png)
 
 ## Credits
 
